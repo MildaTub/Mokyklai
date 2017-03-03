@@ -1,0 +1,10 @@
+Kepsnys "du gaideliai"  5
+Kepsnys "abrikoksas"    5
+Kriausiu pyragas        3
+Desreles "viena"        2
+Mesainis                2
+Kanapiu sriuba          2
+Obuoliu pyragas         1
+Delmantinas             1
+Arbata                  1
+suma: 22

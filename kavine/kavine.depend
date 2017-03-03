@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486473059 source:c:\users\mt\desktop\informatika\kavine\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479050467 source:c:\users\mt\desktop\kortikes\main.cpp
+	<iostream>
+	<fstream>
+

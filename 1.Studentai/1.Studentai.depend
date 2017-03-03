@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486894927 source:c:\users\mt\desktop\informatika\1.studentai\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+

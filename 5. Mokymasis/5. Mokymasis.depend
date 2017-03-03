@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486891787 source:c:\users\mt\desktop\informatika\5. mokymasis\main.cpp
+	<iostream>
+	<fstream>
+
