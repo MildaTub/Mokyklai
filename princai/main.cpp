@@ -11,7 +11,7 @@ struct princai //STRUKTUROS APSKELBIMAS
 };
 void nuskaitymas(princai M[],int &princuKiekis) //ATIDARYMO IS FAILO FUNKCIJA
 {
-
+    cout<<"labas Petrai, ka tu?"<<endl;
     ifstream duom("C:\\Users\\MT\\Desktop\\INFORMATIKA\\princai\\princas.txt"); //NUORODA I FAILO VIETA
     duom>>princuKiekis; //PAIMAMA PIRMA REIKSME IS FAILO T.Y PRINCU KIEKIS
 
